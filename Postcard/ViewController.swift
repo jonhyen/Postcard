@@ -38,6 +38,7 @@ class ViewController: UIViewController {
         mailButton.setTitleColor(UIColor.greenColor(), forState: UIControlState.Normal)
         mailButton.userInteractionEnabled = false
         
+        //adding a comment to test commits
     }
     
 
